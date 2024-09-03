@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Young-People-For-Haifa/.github/blob/main/splash_logo.png?raw=true" alt="Логотип Young People for Haifa" width="300">
+</p>
+
 # Young People for Haifa
 
 **Young People for Haifa (YPFH)** is a non-profit organization based in Haifa, Israel, dedicated to empowering youth to become proactive and engaged citizens in their communities. Since its founding in 2021, YPFH has been at the forefront of fostering social responsibility, civic engagement, and a commitment to diversity, equality, and social justice among young people.
