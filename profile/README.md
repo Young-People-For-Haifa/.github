@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Young-People-For-Haifa/.github/blob/main/splash_logo.png?raw=true" alt="Логотип Young People for Haifa" width="300">
+  <img src="https://github.com/Young-People-For-Haifa/.github/blob/main/splash_logo_gif.gif?raw=true" alt="Логотип Young People for Haifa" width="300">
 </p>
 
 # Young People for Haifa
